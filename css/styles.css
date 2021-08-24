@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(14, 17, 17) ;
+    color: white;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+h2{
+    color:green;
+    font-style: italic;
+    text-align: center;
+}
+p{
+    font-family: sans-serif;
+}
+ol{
+    line-height: 40px;
+}
